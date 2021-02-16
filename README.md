@@ -17,7 +17,7 @@ Se pueden seleccionar los siguientes comandos desde consola.
    MAPBOX_KEY=colocarKeyAqui
    OPENWEATHER_KEY=colocarKeyAqui
 
-   - links donde podes obtener tu API
+   - links donde podes obtener tu API KEY
    - https://www.mapbox.com/
    - https://openweathermap.org/
    
